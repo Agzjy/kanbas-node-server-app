@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "kanbas-node-server-app",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": " Node.js HTTP Web server for the Kanbas application",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Agzjy/kanbas-node-server-app#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "express-session": "^1.17.3",
