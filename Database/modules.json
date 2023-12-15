@@ -1,72 +1,176 @@
-[{
-    "_id": {
-      "$oid": "6557fcefa11aca2377083754"
-    },
-    "name": "Introduction to Rocket Propulsion",
-    "description": "Basic principles of rocket propulsion and rocket engines.",
-    "course": "RS101"
+[
+  {
+    "_id": "CS5610.202330",
+    "course": "CS5610",
+    "weeks": [
+      {
+        "topic": "Week 0 - INTRODUCTION",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Introduction to the course",
+              "What is Web Development"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Full STack Developer - Chapter 1 - Introduction",
+              "Full STack Developer - Chapter 2 - Creating User Interfaces with HTML"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Intro to Web Development",
+              "Creating an HTTP Server"
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Week 1 - HTML",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Introduction to the course",
+              "What is Web Development"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Intro to Web Development",
+              "Creating an HTTP Server"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Intro to Web Development",
+              "Creating an HTTP Server"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
-    "_id": {
-      "$oid": "6557fcefa11aca2377083755"
-    },
-    "name": "Fuel and Combustion",
-    "description": "Understanding rocket fuel, combustion processes, and efficiency.",
-    "course": "RS101"
+    "_id": "CS6200.202330",
+    "course": "CS6200",
+    "weeks": [
+      {
+        "topic": "Week 0 - INTRODUCTION",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Course Overview",
+              "Intro to ML"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Chapter 1",
+              "Chapter 2"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Course Syllabus",
+              "Intro to ML"
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Week 1 - Regression and Classification",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Linear Regression",
+              "Classification"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Chapter 4",
+              "Chapter 5"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Linear Regression",
+              "Classification"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
-    "_id": {
-      "$oid": "6557fcefa11aca2377083756"
-    },
-    "name": "Nozzle Design",
-    "description": "Principles of rocket nozzle design and performance optimization.",
-    "course": "RS101"
-  },
-  {
-    "_id": {
-      "$oid": "6557fcefa11aca2377083757"
-    },
-    "name": "Fundamentals of Aerodynamics",
-    "description": "Basic aerodynamic concepts and fluid dynamics principles.",
-    "course": "RS102"
-  },
-  {
-    "_id": {
-      "$oid": "6557fcefa11aca2377083758"
-    },
-    "name": "Subsonic and Supersonic Flow",
-    "description": "Understanding subsonic and supersonic aerodynamic behaviors.",
-    "course": "RS102"
-  },
-  {
-    "_id": {
-      "$oid": "6557fcefa11aca2377083759"
-    },
-    "name": "Aerodynamic Heating",
-    "description": "Study of aerodynamic heating and thermal protection systems.",
-    "course": "RS102"
-  },
-  {
-    "_id": {
-      "$oid": "6557fcefa11aca237708375a"
-    },
-    "name": "Spacecraft Structural Design",
-    "description": "Fundamentals of designing spacecraft structures and materials selection.",
-    "course": "RS103"
-  },
-  {
-    "_id": {
-      "$oid": "6557fcefa11aca237708375b"
-    },
-    "name": "Orbital Mechanics",
-    "description": "Understanding orbital dynamics and mission planning.",
-    "course": "RS103"
-  },
-  {
-    "_id": {
-      "$oid": "6557fcefa11aca237708375c"
-    },
-    "name": "Spacecraft Systems Engineering",
-    "description": "Overview of spacecraft systems and subsystems engineering.",
-    "course": "RS103"
-  }]
+    "_id": "CS5800.202330",
+    "course": "CS5800",
+    "weeks": [
+      {
+        "topic": "Week 0 - INTRODUCTION",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Syllabus",
+              "Introduction"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Chapter 1",
+              "Chapter 2"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Syllabus",
+              "Introduction"
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "Week 1 - Search",
+        "headings": [
+          {
+            "name": "LEARNING OBJECTIVES",
+            "objectives": [
+              "Linear Search",
+              "Binary Search"
+            ]
+          },
+          {
+            "name": "READING",
+            "objectives": [
+              "Linear Search",
+              "Binary Search"
+            ]
+          },
+          {
+            "name": "SLIDES",
+            "objectives": [
+              "Linear Search",
+              "Binary Search"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

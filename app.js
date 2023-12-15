@@ -5,18 +5,12 @@ import CourseRoutes from "./courses/routes.js";
 import ModuleRoutes from "./modules/routes.js";
 import cors from "cors";
 import "dotenv/config";
+
 const app = express()
 app.use(cors());
 app.use(express.json());
-
-CourseRoutes(app);
 ModuleRoutes(app);
+CourseRoutes(app);
 Lab5(app);
 Hello(app)
-app.listen(4000)
-// app.listen(process.env.PORT || 4000);
-
-
-
-
-
+app.listen(process.env.PORT || 4000);
